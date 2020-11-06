@@ -1,1 +1,1 @@
-# java-file-format-docs
+This repository contains Java UG documentation for the Syncfusion File Format products.
